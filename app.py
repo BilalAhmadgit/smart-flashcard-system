@@ -7,6 +7,6 @@ POST/flashcard
 
 Output:
 { 
-  "message": "Flashcard added successfully",
+  "message": "Flashcard added successfully", 
   "subject": "Physics"
 }
